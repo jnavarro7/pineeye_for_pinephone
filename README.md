@@ -1,7 +1,7 @@
 # PineEye Thermal imaging solution for the PinePhone
  Thermal imaging board aimed to be used with the PinePhone. It uses the Panasonic AMG8833 sensor.   
 
-![alt tag](/pictures/1.png
+![alt tag](/pictures/1.png)
 
 Sensor is attached to the pogo pin expansion port on the back of the PinePhone and to the I2C port exposed here.  It is numbered as i2c-3 in multiple operating systems.
 To expose the pogo pins I use my other design which is the flex PCB shown in the pictures.   
@@ -10,9 +10,7 @@ To expose the pogo pins I use my other design which is the flex PCB shown in the
 * Pullup   - 0x69
 * Pulldown - 0x68
 
-
 ![alt tag](/pictures/2.png)
-
 
 ## Initial tests
 For the initial tests we use i2c-tools 
