@@ -10,7 +10,9 @@ To expose the pogo pins I use my other design which is the flex PCB shown in the
 * Pullup   - 0x69
 * Pulldown - 0x68
 
+
 ![alt tag](/pictures/2.png)
+
 
 ## Initial tests
 For the initial tests we use i2c-tools 
