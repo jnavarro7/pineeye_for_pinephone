@@ -41,3 +41,18 @@ To read a register on the sensor we use i2cget then give the port number "3" the
 ![alt tag](/pictures/5.png)
 
 ![alt tag](/pictures/4.png)
+
+## Design
+
+The design was created using <a href="https://diptrace.com" title="DipTrace">DipTrace</a>
+
+## Try it for yourself
+You can get the board from OSH Park using this direct link to order the project. 
+
+<a href="https://oshpark.com/shared_projects/Z65YHSF2"><img src="https://oshpark.com/packs/media/images/badge-5f4e3bf4bf68f72ff88bd92e0089e9cf.png" alt="Order from OSH Park"></img></a>
+
+
+## License
+
+Released under the Creative Commons Attribution 3.0 License
+https://creativecommons.org/licenses/by/3.0/
