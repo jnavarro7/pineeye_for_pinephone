@@ -42,6 +42,12 @@ To read a register on the sensor we use i2cget then give the port number "3" the
 
 ![alt tag](/pictures/4.png)
 
+
+## Drivers
+
+Tests drivers I have been creating to test the system will be located here <a href="https://github.com/jnavarro7/pineeye_pinephone_drivers" title="Drivers repo">Drivers repo</a>
+
+
 ## Design
 
 The design was created using <a href="https://diptrace.com" title="DipTrace">DipTrace</a>
